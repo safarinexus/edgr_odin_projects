@@ -1,7 +1,7 @@
 [![The Odin Project Banner](./assets/top_banner.png)](https://www.theodinproject.com/)
-# [edgr-odinprojects](https://safarinexus.github.io/edgr-odinprojects/)
+# [edgr-odinprojects](https://edgargle.github.io/edgr-odinprojects/)
 
-"The Odin Project" projects by me, Edgar (@safarinexus). Meant to demonstrating undergoing and completion of "The Odin Project" in full, as well as display fullstack web development skills learnt. 
+"The Odin Project" projects by me, Edgar. Meant to demonstrating undergoing and completion of "The Odin Project" in full, as well as display fullstack web development skills learnt. 
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ No substantial software required, just a modern-browser will suffice.
 No installation needed. Just click on links provided and open them up in a browser of your choice.
 
 ### Navigation 
-Click any of the project titles below. Or navigate through the homepage [here](https://safarinexus.github.io/edgr-odinprojects).
+Click any of the project titles below. Or navigate through the homepage [here](https://edgargle.github.io/edgr-odinprojects).
 
 ### Path 
 
@@ -81,37 +81,37 @@ Project: Memory Card
 React Project<br/>
 Project: CV Application  
 
-### [Odin Homepage](https://safarinexus.github.io/edgr-odinprojects/odin-homepage/index.html)
+### [Odin Homepage](https://edgargle.github.io/edgr-odinprojects/odin-homepage/index.html)
 
 <a href="https://safarinexus.github.io/edgr-odinprojects/odin-homepage/index.html"><img src="./assets/Homepage.png" height="250px"/></a><br/> 
 Advanced HTML & CSS Project<br/>
 Project: Homepage  
 
-### [Odin Battleship](https://safarinexus.github.io/edgr-odinprojects/odin-js-battleship/dist/index.html)
+### [Odin Battleship](https://edgargle.github.io/edgr-odinprojects/odin-js-battleship/dist/index.html)
 
 <a href="https://safarinexus.github.io/edgr-odinprojects/odin-js-battleship/dist/index.html"><img src="./assets/Battleship.png" height="250px"/></a><br/>
 Intermediate JavaScript Project<br/> 
 Project: Battleship   
 
-### [Odin Weather App](https://safarinexus.github.io/edgr-odinprojects/odin-js-weatherapp/index.html) 
+### [Odin Weather App](https://edgargle.github.io/edgr-odinprojects/odin-js-weatherapp/index.html) 
 
 <a href="https://safarinexus.github.io/edgr-odinprojects/odin-js-weatherapp/index.html"><img src="./assets/Weather-App.png" height="250px"/></a><br/> 
 Intermediate JavaScript API Project<br/> 
 Project: Weather App  
 
-### [Odin Todo List](https://safarinexus.github.io/edgr-odinprojects/odin-js-todo/dist/index.html)
+### [Odin Todo List](https://edgargle.github.io/edgr-odinprojects/odin-js-todo/dist/index.html)
 
 <a href="https://safarinexus.github.io/edgr-odinprojects/odin-js-todo/dist/index.html"><img src="./assets/Todo-List.png" height="250px"/></a><br/> 
 Intermediate JavaScript Project<br/> 
 Project: Todo List 
 
-### [Odin Restaurant Page](https://safarinexus.github.io/edgr-odinprojects/odin-js-restaurantpage/dist/index.html)
+### [Odin Restaurant Page](https://edgargle.github.io/edgr-odinprojects/odin-js-restaurantpage/dist/index.html)
 
 <a href="https://safarinexus.github.io/edgr-odinprojects/odin-js-restaurantpage/dist/index.html"><img src="./assets/Restaurant-Page.png" height="250px"/></a><br/> 
 Intermediate JavaScript Webpack Project<br/>
 Project: Restaurant Page  
 
-### [Odin Tic-Tac-Toe](https://safarinexus.github.io/edgr-odinprojects/odin-js-tictactoe/jstictactoe.html)
+### [Odin Tic-Tac-Toe](https://edgargle.github.io/edgr-odinprojects/odin-js-tictactoe/jstictactoe.html)
 
 <a href="https://safarinexus.github.io/edgr-odinprojects/odin-js-tictactoe/jstictactoe.html"><img src="./assets/Tic-Tac-Toe.png" height="250px"/></a><br/> 
 Intermediate JavaScript IIFE & Factory Functions Project<br/>
@@ -123,38 +123,38 @@ Project: Tic-Tac-Toe
 Intermediate JavaScript & JS Objects Project<br/>
 Project: Library  
 
-### [Odin Dashboard](https://safarinexus.github.io/edgr-odinprojects/odin-dashboard/dashboard.html)  
+### [Odin Dashboard](https://edgargle.github.io/edgr-odinprojects/odin-dashboard/dashboard.html)  
 
 Intermediate HTML & CSS Grid Project  
 Project: Admin Dashboard  
 
-### [Odin Sign-up Form](https://safarinexus.github.io/edgr-odinprojects/odin-signup/signup.html)
+### [Odin Sign-up Form](https://edgargle.github.io/edgr-odinprojects/odin-signup/signup.html)
 
 Intermediate HTML & CSS Form Project<br/>
 Project: Sign-up Form  
 
-### [Odin Calculator](https://safarinexus.github.io/edgr-odinprojects/odin-calculator/calculator.html)  
+### [Odin Calculator](https://edgargle.github.io/edgr-odinprojects/odin-calculator/calculator.html)  
 
 <a href="https://safarinexus.github.io/edgr-odinprojects/odin-calculator/calculator.html"><img src="./assets/Calculator.png" height="250px"/></a><br/> 
 JavaScript Basics Final Project<br/>
 Project: Calculator
 
-### [Odin Etch-a-Sketch](https://safarinexus.github.io/edgr-odinprojects/odin-etch-a-sketch/etch-a-sketch.html)
+### [Odin Etch-a-Sketch](https://edgargle.github.io/edgr-odinprojects/odin-etch-a-sketch/etch-a-sketch.html)
 
 JavaScript Basics DOM Manipulation Project  
 Project: Etch-a-Sketch  
 
-### [Odin Rock Paper Scissors](https://safarinexus.github.io/edgr-odinprojects/odin-rockpaperscissors/rockpaperscissors.html)
+### [Odin Rock Paper Scissors](https://edgargle.github.io/edgr-odinprojects/odin-rockpaperscissors/rockpaperscissors.html)
 
 JavaScript Basics Project  
 Project: Rock Paper Scissors  
 
-### [Odin Landing Page](https://safarinexus.github.io/edgr-odinprojects/odin-landing-page/landing-page.html)
+### [Odin Landing Page](https://edgargle.github.io/edgr-odinprojects/odin-landing-page/landing-page.html)
 
 CSS & Flexbox Foundations Project  
 Project: Landing Page   
 
-### [Odin Recipes](https://safarinexus.github.io/edgr-odinprojects/odin-recipes/recipes.html)
+### [Odin Recipes](https://edgargle.github.io/edgr-odinprojects/odin-recipes/recipes.html)
 
 HTML Foundations Project  
 Project: Recipes    
@@ -188,7 +188,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Edgar Teong**(me!) - [SafariNexus](https://github.com/safarinexus)
+* **Edgar Teong**(me!) - [edgargle](https://github.com/edgargle)
 
 ## License
 
